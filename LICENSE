@@ -1,0 +1,88 @@
+MobileCLI Pro - Proprietary Software License
+=============================================
+
+Copyright (c) 2026 MobileCLI Team. All rights reserved.
+
+
+GRANT OF LICENSE
+----------------
+Subject to the terms of this license and payment of applicable
+subscription fees, the MobileCLI Team grants you a limited,
+non-exclusive, non-transferable, revocable license to:
+
+  - Download and use the compiled APK for personal use
+  - View source code in this repository for reference purposes
+
+RESTRICTIONS
+------------
+You may NOT:
+  - Copy, modify, or distribute the source code
+  - Create derivative works based on this software
+  - Use the source code to build competing products
+  - Reverse engineer, decompile, or disassemble the compiled APK
+  - Remove or alter any proprietary notices
+  - Sublicense, sell, rent, or lease the software
+
+WHAT THIS COVERS
+----------------
+All original source code in this repository, including but not
+limited to:
+
+  - MainActivity.kt (~1,400 lines)
+  - BootstrapInstaller.kt (~2,900 lines)
+  - TermuxApiReceiver.kt (~2,000 lines)
+  - SetupWizard.kt (~800 lines)
+  - TermuxService.kt (~600 lines)
+  - AmSocketServer.kt (~440 lines)
+  - All other Kotlin/Java files in app/src/main/java/
+
+Total: ~9,000+ lines of original, proprietary code.
+
+THIRD-PARTY COMPONENTS
+----------------------
+This software incorporates third-party open source components
+which are licensed separately:
+
+  - terminal-view (Apache License 2.0)
+  - terminal-emulator (Apache License 2.0)
+  - AndroidX libraries (Apache License 2.0)
+  - Kotlin & kotlinx libraries (Apache License 2.0)
+  - Supabase Kotlin SDK (MIT License)
+
+See THIRD_PARTY_LICENSES.md and NOTICE for full details.
+
+RUNTIME DOWNLOADS
+-----------------
+Users download additional software at runtime (bash, Python,
+Node.js, etc.) from Termux package repositories. These are NOT
+bundled with MobileCLI and are subject to their own licenses
+(GPL, MIT, PSF, etc.).
+
+TERMUX COMPATIBILITY
+--------------------
+MobileCLI uses the com.termux package name for compatibility
+with the Termux terminal infrastructure. Termux is a trademark
+of its respective owners. MobileCLI is an independent project.
+
+DISCLAIMER OF WARRANTY
+----------------------
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE USE OF THE SOFTWARE.
+
+GOVERNING LAW
+-------------
+This license is governed by the laws of the State of California,
+United States.
+
+CONTACT
+-------
+Email: mobiledevcli@gmail.com
+Website: https://mobilecli.com
+GitHub: https://github.com/MobileDevCLI
+
+=============================================
+(c) 2026 MobileCLI Team. All Rights Reserved.

@@ -1,0 +1,27 @@
+MobileCLI Pro
+Copyright (c) 2026 MobileCLI Team
+
+This product includes software developed by:
+
+- The Termux Project (https://github.com/termux)
+  terminal-view and terminal-emulator libraries
+  Licensed under Apache License 2.0
+
+- Jack Palevich
+  Android Terminal Emulator (original VT100 implementation)
+  Licensed under Apache License 2.0
+
+- Google/Android (https://developer.android.com)
+  AndroidX libraries
+  Licensed under Apache License 2.0
+
+- JetBrains (https://www.jetbrains.com)
+  Kotlin, kotlinx-coroutines, kotlinx-serialization
+  Licensed under Apache License 2.0
+
+- Jan Tennert (https://github.com/jan-tennert)
+  Supabase Kotlin SDK
+  Licensed under MIT License
+
+Termux is a trademark of its respective owners.
+MobileCLI is an independent project.
